@@ -39,7 +39,7 @@ it's one HTML file. just open `index.html` in any browser. or host it anywhere s
 1. create a new repo called `bare`
 2. push these files
 3. Settings > Pages > Source: `main` branch, `/ (root)` > Save
-4. wait a minute, visit `https://YOUR-USERNAME.github.io/bare/`
+4. wait a minute, visit `https://shehan-fdo.github.io/bare/`
 
 ## SEO
 
