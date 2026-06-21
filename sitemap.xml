@@ -3,12 +3,12 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://YOUR-USERNAME.github.io/bare/</loc>
+    <loc>https://shehan-fdo.github.io/bare/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://YOUR-USERNAME.github.io/bare/og.png</image:loc>
+      <image:loc>https://shehan-fdo.github.io/bare/og.png</image:loc>
       <image:title>bare — a blank page to type in</image:title>
       <image:caption>the simplest writing space on the internet</image:caption>
     </image:image>
