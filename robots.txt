@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-USERNAME.github.io/bare/sitemap.xml
+Sitemap: https://shehan-fdo.github.io/bare/sitemap.xml
